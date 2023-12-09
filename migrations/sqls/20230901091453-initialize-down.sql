@@ -1,0 +1,13 @@
+/* Replace with your SQL commands */
+DROP TABLE IF EXISTS TaxFiles;
+DROP TABLE IF EXISTS IncomeFiles;
+DROP TABLE IF EXISTS DonationFiles;
+DROP TABLE IF EXISTS CapitalGainLoss;
+DROP TABLE IF EXISTS TaxDeductionsExpenses;
+DROP TABLE IF EXISTS AdditionalIncome;
+DROP TABLE IF EXISTS Donations;
+DROP TABLE IF EXISTS FinancialYear;
+DROP TABLE IF EXISTS FilesImages;
+DROP TABLE IF EXISTS UserDetails;
+DROP TABLE IF EXISTS UserLogin;
+DROP TABLE IF EXISTS OTPAuth;
